@@ -1,1 +1,26 @@
 /*  your css code here. If applicable */
+* {
+	background-color: rgb(135, 206, 235);
+}
+.first-text {
+	color: white;
+	background-color: black;
+}
+.third-text {
+	color: red;
+}
+li{
+	width: 50%
+	padding: 10px;
+	background-color: white;
+}
+.l-one, .l-five {
+/* 	width:50 */
+	font-size: 22px;
+}
+.l-two, .l-four {
+	background-color: gray;
+}
+.l-three {
+	background: pink;
+}
